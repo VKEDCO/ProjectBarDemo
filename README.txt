@@ -1,0 +1,1 @@
+rar achive with an Android 4.2 Eclipse project that demonstrates a use of ProjectDialog widget.
